@@ -179,8 +179,8 @@ body {
   color: #3a3838;
   margin-bottom: 10px;
 }
-.review-content p{
-    margin-bottom: 0px;
+.review-content p {
+  margin-bottom: 0px;
 }
 .review-img {
   position: absolute;
@@ -188,6 +188,28 @@ body {
   opacity: 50%;
 }
 
-#review{
-    margin-bottom: 60px;
+#review {
+  margin-bottom: 60px;
+}
+
+footer {
+  background-color: white;
+}
+
+.rights p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #5b5757;
+}
+
+.footer-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0;
+}
+
+.footer-image img {
+  margin-left: 32px;
+  cursor: pointer;
 }
